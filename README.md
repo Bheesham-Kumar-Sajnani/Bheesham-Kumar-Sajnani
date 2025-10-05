@@ -15,15 +15,19 @@
 ## 🛠️ Skills & Tools  
 
 **Core Programming & Tech**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 **Creative Side (My Artistic Touch)**  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
-![Affinity](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white)  
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)  
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+</p>  
 
 ---
 
@@ -64,7 +68,7 @@ I’ve worked on various **school projects**, focusing on:
 
 ## 🐍 Contribution Snake  
 
-![snake gif](https://github.com/bheesham-kumar/bheesham-kumar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bheesham-kumar/bheesham-kumar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
