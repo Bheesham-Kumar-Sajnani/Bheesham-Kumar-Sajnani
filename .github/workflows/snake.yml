@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule: 
-      - cron: "0 0 * * *"  # runs every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: bheesham-kumar
+          github_user_name: Bheesham-Kumar-Sajnani
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake
