@@ -1,9 +1,9 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
+  workflow_dispatch:     # run manually from Actions
   schedule:
-    - cron: "0 0 * * *"     # daily at UTC 00:00 — adjust if you want different cadence
-  workflow_dispatch:         # lets you run it manually from Actions tab
+    - cron: "0 0 * * *" # run daily at midnight UTC
 
 jobs:
   build:
@@ -11,18 +11,15 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Generate snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
-          # IMPORTANT: use your exact GitHub username (owner name) here
           github_user_name: Bheesham-Kumar-Sajnani
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Publish snake to `output` branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
