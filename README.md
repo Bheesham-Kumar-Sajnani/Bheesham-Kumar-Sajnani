@@ -79,7 +79,8 @@ I’ve worked on various **school projects**, focusing on:
 
 > The snake is generated to the `output` branch. If it's present, this image will show the animated snake:
 
-![Contribution Snake](https://raw.githubusercontent.com/Bheesham-Kumar-Sajnani/Bheesham-Kumar-Sajnani/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Bheesham-Kumar-Sajnani/Bheesham-Kumar-Sajnani/output/github-contribution-grid-snake.svg
+)
 
 *(If this doesn't appear right away, follow the setup steps below — the snake file is created by a GitHub Action and will show once the action pushes the file to the `output` branch.)*
 
