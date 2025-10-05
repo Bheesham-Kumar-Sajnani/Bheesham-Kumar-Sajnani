@@ -68,7 +68,7 @@ I’ve worked on various **school projects**, focusing on:
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/bheesham-kumar/bheesham-kumar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Bheesham-Kumar-Sajnani/Bheesham-Kumar-Sajnani/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
