@@ -13,11 +13,13 @@ Always curious, always building, always learning.
 
 ---
 
-## Interests & Focus
-- Data Science & Analytics  
+## Interests & Focus  
+
+- Data Science & Intelligent Systems  
 - Artificial Intelligence & Machine Learning  
 - Software Development & Automation  
-- UI/UX Design & Prototyping (Figma)
+- Web Technologies & Modern Frameworks  
+- Creative Design & Prototyping (Figma, UI/UX)
 
 ---
 
