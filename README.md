@@ -54,7 +54,7 @@ Always curious, always building, always learning.
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 ![Contribution Snake](https://raw.githubusercontent.com/Bheesham-Kumar-Sajnani/Bheesham-Kumar-Sajnani/output/github-contribution-grid-snake.svg
 )
